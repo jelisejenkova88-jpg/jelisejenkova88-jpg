@@ -7,3 +7,5 @@
 
 Инструменты:
 Python, pytest, Selenium WebDriver, Allure, Postman, Swagger, Android Studio, VS Code, SQL, Git
+
+почта: sanja_svilar@hotmail.com
